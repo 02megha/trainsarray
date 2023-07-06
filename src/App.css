@@ -1,0 +1,32 @@
+h1{
+    color: black;
+    background-color: orange;
+    text-decoration: solid;
+    border: 89;
+}
+div{
+    color: pink;
+    background-color: aqua;
+    text-align: center;
+    text-decoration: solid;
+    border-radius: 80;
+}
+ ul{
+    color: darkmagenta;
+    background-color: orangered;
+    text-decoration: solid;
+    text-rendering: inherit;
+
+ }
+ li{
+    color: goldenrod;
+    background-color: aqua;
+    text-decoration: solid;
+    text-emphasis: none;
+    border-radius: 67;
+    
+ }
+button{
+    color: blueviolet;
+    text-decoration: wavy;
+}
