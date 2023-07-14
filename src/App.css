@@ -1,4 +1,4 @@
-h1{
+/* h1{
     color: black;
     background-color: orange;
     text-decoration: solid;
@@ -13,20 +13,25 @@ div{
 }
  ul{
     color: darkmagenta;
-    background-color: orangered;
+    background-color: orange;
     text-decoration: solid;
-    text-rendering: inherit;
+    text-rendering: inherit;s
 
  }
- li{
-    color: goldenrod;
-    background-color: aqua;
-    text-decoration: solid;
-    text-emphasis: none;
-    border-radius: 67;
-    
- }
+
 button{
-    color: blueviolet;
+    color: blue ;
     text-decoration: wavy;
 }
+h1{
+    color :black;
+    text-decoration: solid;
+
+}
+label{
+    color: "red";
+    text-decoration: solid;
+    text-overflow: ellipsis;
+    border: 79;
+    border-radius: 80;
+} */

@@ -1,11 +1,11 @@
 
 import "./App.css";
-import File from "./File";
+import Do from "./Do";
 const App = () => {
   return  (
   <> 
 
-<File />
+<Do />
 
    </>
   );
